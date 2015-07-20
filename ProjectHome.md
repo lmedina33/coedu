@@ -1,0 +1,1 @@
+Sistema de control escolar, basado en PHP.
